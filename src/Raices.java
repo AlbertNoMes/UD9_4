@@ -14,6 +14,28 @@ public class Raices {
 	}
 		
 	//Metodos
+	//ObtenerRaices
 	
+	//ObtenerRaiz
+	
+	//getDiscriminante
+	public double getDiscriminante(double a, double b, double c) {
+		
+		double resultado = Math.pow(b, 2)-4*a*c;
+		return resultado;
+		
+	}
+	
+	
+	//tineneRaices
+	
+	//tieneRaiz
+	
+	//calcular
+	public void calcular(double a, double b, double c) {
+		
+		//double resultado = (-b(Math.pow(b, 2)-(4*a*c)))/(2*a);
+		
+	}
 	
 }
