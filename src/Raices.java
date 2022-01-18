@@ -39,9 +39,8 @@ public class Raices {
 	private void obtenerRaiz(){
         
         double x=-b+Math.sqrt(0)/(2*a);
-         
-        System.out.println("Unica solucion");
-        System.out.println(x);
+  
+        System.out.println("El resultado de esta operación es: "+x);
          
     }
 	
@@ -65,7 +64,7 @@ public class Raices {
         }else if(tieneRaiz()){
             obtenerRaiz();
         }else{
-            System.out.println("No tiene soluciones");
+            System.out.println("Esta operacion no tiene soluciones");
         }
          
     }
