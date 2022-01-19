@@ -4,7 +4,6 @@
 
 public class Raices {
 
-
 	// Atributos(valores)
 	private double a;
 	private double b;
