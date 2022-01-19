@@ -1,3 +1,6 @@
+/*
+ * Autores: Miquel, Adrià i Albert
+ */
 
 public class RaicesApp {
 
